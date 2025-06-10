@@ -1,4 +1,4 @@
-# TurnKey Auto Bot - Airdrop Insiders
+# TurnKey Auto Bot
 
 Automated bot for executing transactions on Ethereum Sepolia testnet with multiple wallets. This bot helps automate daily transaction batches for airdrop farming and testnet interaction.
 
@@ -22,8 +22,7 @@ Automated bot for executing transactions on Ethereum Sepolia testnet with multip
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vikitoshi/Turnkey-Auto-Bot.git
-cd Turnkey-Auto-Bot
+git clone https://github.com/airdropbomb/Turnkey-Auto-Bot.git && cd Turnkey-Auto-Bot
 ```
 
 2. Install dependencies:
@@ -136,13 +135,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This software is provided for educational and testing purposes only. Users are responsible for complying with all applicable laws and regulations. The authors are not responsible for any misuse of this software or any damages that may occur from its use.
 
-## Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/vikitoshi/Turnkey-Auto-Bot/issues) section
-2. Create a new issue if your problem isn't already reported
-3. Provide detailed information about your environment and the error
 
 ## Changelog
 
